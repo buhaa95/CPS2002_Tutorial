@@ -1,4 +1,4 @@
 
-public class Multiply {
+public class Multiply implements Operation {
 
 }

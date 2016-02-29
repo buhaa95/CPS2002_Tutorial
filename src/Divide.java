@@ -1,4 +1,4 @@
 
-public class Divide {
+public class Divide implements Operation {
 
 }
