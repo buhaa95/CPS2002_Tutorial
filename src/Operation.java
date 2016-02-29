@@ -1,4 +1,4 @@
 
-public class Operation {
+public interface Operation {
 
 }
