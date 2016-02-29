@@ -1,4 +1,4 @@
-public class Add 
+public class Add implements Operation
 {
 	
 }

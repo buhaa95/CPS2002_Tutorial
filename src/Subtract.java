@@ -1,1 +1,1 @@
-public class Subtract {}
+public class Subtract implements Operation{}
